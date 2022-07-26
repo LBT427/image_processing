@@ -1,0 +1,4 @@
+﻿  picture.cpp
+D:\desk\VS2019\picture\picture.cpp(16,1): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+D:\desk\VS2019\picture\picture.cpp(164,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  picture.vcxproj -> D:\desk\VS2019\picture\Debug\picture.exe

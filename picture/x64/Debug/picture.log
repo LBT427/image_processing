@@ -1,0 +1,3 @@
+﻿  bmp.cpp
+D:\desk\VS2019\picture\bmp.cpp(10,1): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+  picture.vcxproj -> D:\desk\VS2019\picture\x64\Debug\picture.exe
